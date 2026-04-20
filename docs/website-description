@@ -2,8 +2,7 @@ we're recreating and materialing improving https://www.alicealieberman.com/ and 
 
 Page include: Home, CV, Publications, Research, Contact Me
 
-Structure is header with a backgound image with the text "
-Alicea Lieberman, PhD, MPH", and a horizontal navigation bar with links to the pages. Below the header, each page will have its own content section. A footer with linked tiwtter and linkedin incons.
+Structure is header with a backgound image public/header.png with the text "Alicea Lieberman, PhD, MPH", and a horizontal navigation bar with links to the pages. Below the header, each page will have its own content section. A footer with linked tiwtter and linkedin incons.
 
 
 1. HOME:
