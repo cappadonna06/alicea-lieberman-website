@@ -1,0 +1,92 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #111827;
+  --navy: #003B5C;
+  --navy-light: #1B5E82;
+  --accent: #1B6CA8;
+  --muted: #6B7280;
+  --border: #E5E7EB;
+  --surface: #F9FAFB;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', Georgia, serif;
+  line-height: 1.3;
+}
+
+/* Reusable hover utilities */
+.btn-navy {
+  background-color: #003B5C;
+  color: #ffffff;
+  text-decoration: none;
+  transition: background-color 0.15s ease;
+}
+.btn-navy:hover {
+  background-color: #1B5E82;
+}
+
+.btn-navy-outline {
+  border: 1px solid #003B5C;
+  color: #003B5C;
+  text-decoration: none;
+  background-color: transparent;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+.btn-navy-outline:hover {
+  background-color: #003B5C;
+  color: #ffffff;
+}
+
+.link-blue {
+  color: #1B6CA8;
+  text-decoration: none;
+}
+.link-blue:hover {
+  text-decoration: underline;
+}
+
+.link-muted {
+  color: #6B7280;
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+.link-muted:hover {
+  color: #003B5C;
+}
+
+.nav-link {
+  color: rgba(255,255,255,0.75);
+  text-decoration: none;
+  border-bottom: 3px solid transparent;
+  transition: color 0.15s ease;
+}
+.nav-link:hover {
+  color: #ffffff;
+}
+.nav-link.active {
+  color: #ffffff;
+  border-bottom: 3px solid #ffffff;
+}
