@@ -14,7 +14,7 @@ const projects: ResearchProject[] = [
     title: "How Incentive Framing Can Harness the Power of Social Norms",
     description:
       "Incentives are an increasingly common tool used to change behavior. In this research, we propose that more than just motivating behavior for monetary reasons, incentives also have an important, undiscovered consequence: they leak information about social norms. Four experiments reveal that framing an incentive as a surcharge (vs. a discount), signals that the incentivized behavior is both more socially approved and more common, motivating consumers to perform the incentivized behavior. Importantly, by shifting social norms, we find that incentives can also change behaviors among those who merely witness the incentive as well as influence behavior not only in the moment, but also downstream when there is no longer an active incentive.",
-    image: "/Social-norms.png",
+    image: "/social-norms.png",
     imageAlt: "Social norms research visualization",
     citations: [
       {
