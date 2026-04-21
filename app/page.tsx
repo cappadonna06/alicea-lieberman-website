@@ -50,9 +50,9 @@ export default function Home() {
           {/* Quick links */}
           <div className="flex flex-wrap gap-3 mt-8">
             {[
-              { href: "/research", label: "Research" },
-              { href: "/publications", label: "Publications" },
               { href: "/cv", label: "CV" },
+              { href: "/publications", label: "Publications" },
+              { href: "/research", label: "Research" },
               { href: "/contact", label: "Contact" },
             ].map(({ href, label }) => (
               <Link
