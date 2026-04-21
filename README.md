@@ -34,6 +34,13 @@ The contact page includes a form that submits to `POST /api/contact`, which send
    - If omitted, the route defaults to `onboarding@resend.dev` for local testing.
 6. Start dev server and test the form at `/contact`.
 
+Example `.env.local`:
+
+```env
+RESEND_API_KEY=re_xxxxxxxxxxxxxxxxxxxxxxxxx
+CONTACT_FROM_EMAIL=onboarding@resend.dev
+```
+
 > If your environment blocks package installation, run `npm install resend` in your local environment before deploying.
 
 ## Learn More
