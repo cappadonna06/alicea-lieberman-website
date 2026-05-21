@@ -1,5 +1,4 @@
 import Link from "next/link";
-import ContactForm from "@/components/ContactForm";
 
 function TwitterIcon({ size = 18 }: { size?: number }) {
   return (
@@ -85,6 +84,21 @@ export default function Contact() {
               </Link>
             </div>
           </div>
+
+          {/* Faculty Profile */}
+          <div>
+            <p className="text-xs uppercase font-semibold mb-2" style={{ color: "#9CA3AF", letterSpacing: "0.1em" }}>
+              Faculty Profile
+            </p>
+            <Link
+              href="https://www.anderson.ucla.edu/faculty-and-research/marketing/faculty/alicea-lieberman"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="link-blue text-sm"
+            >
+              UCLA Anderson
+            </Link>
+          </div>
         </div>
 
         {/* Info card */}
@@ -118,18 +132,6 @@ export default function Contact() {
         </div>
       </div>
 
-      <ContactForm />
-
-      <div className="mt-8 text-right">
-        <Link
-          href="https://www.anderson.ucla.edu/faculty-and-research/marketing/faculty/alicea-lieberman"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="link-blue text-sm"
-        >
-          UCLA Anderson Faculty Profile
-        </Link>
-      </div>
     </div>
   );
 }
