@@ -19,7 +19,7 @@ const projects: ResearchProject[] = [
     citations: [
       {
         text: "Lieberman, Alicea, Kristen Duke, and On Amir (2019), \u201cHow Incentive Framing Can Harness the Power of Social Norms,\u201d Organizational Behavior and Human Decision Processes, 151, 118\u2013131.",
-        url: "https://www.alicealieberman.com/_files/ugd/5ee748_d92055c5e31d41bfb354a138ad467a20.pdf",
+        url: "https://www.sciencedirect.com/science/article/abs/pii/S0749597818300566",
       },
       {
         text: "Lieberman, Alicea and Kristen Duke (2020), \u201cWhy We\u2019re Incentivized by Discounts and Surcharges,\u201d Harvard Business Review.",
@@ -49,7 +49,7 @@ const projects: ResearchProject[] = [
     citations: [
       {
         text: "Lieberman, Alicea, Ayelet Gneezy, et al. (2021), \u201cThe Effect of Deadlines on Cancer Screening Completion: A Randomized Controlled Trial,\u201d Scientific Reports, 11(13876).",
-        url: "https://www.alicealieberman.com/_files/ugd/5ee748_8d762b53fbf949178253262ea7dcc33c.pdf",
+        url: "https://www.nature.com/articles/s41598-021-93334-1",
       },
     ],
   },
