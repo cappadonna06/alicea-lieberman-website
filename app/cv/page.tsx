@@ -111,7 +111,7 @@ export default function CV() {
           </p>
         </div>
         <Link
-          href="/Lieberman_CV_2026.pdf"
+          href="/Lieberman_CV.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="btn-navy inline-flex items-center gap-2 px-5 py-2.5 text-sm font-medium rounded-sm"
@@ -164,9 +164,9 @@ export default function CV() {
         <PubEntry><strong>Lieberman, Alicea</strong>, Ayelet Gneezy, Emily Berry, Stacie Miller, Mark Koch, Keith Argenbright, and Samir Gupta (2021), &ldquo;The Effect of Deadlines on Cancer Screening Completion: A Randomized Controlled Trial,&rdquo; <em>Scientific Reports</em>, 11(1), 13876.</PubEntry>
         <PubEntry>Williams, Elanor F., <strong>Alicea Lieberman</strong>, and On Amir (2021), &ldquo;Perspective Neglect: Inadequate Perspective Taking Limits Consumer Coordination,&rdquo; <em>Judgment and Decision Making</em>, 16(4), 898–931.</PubEntry>
         <PubEntry><strong>Lieberman, Alicea</strong>, Kristen E. Duke, and On Amir (2019), &ldquo;How Incentive Framing Can Harness the Power of Social Norms,&rdquo; <em>Organizational Behavior and Human Decision Processes</em>, 151, 118–131.</PubEntry>
-        <PubEntry><strong>Lieberman, Alicea</strong> and Juliana Schroeder (2019), &ldquo;Two Social Lives: How Differences Between Online and Offline Interaction Influence Social Outcomes,&rdquo; <em>Current Opinion in Psychology</em>, 30, 16–21.</PubEntry>
+        <PubEntry><strong>Lieberman, Alicea</strong> and Juliana Schroeder (2019), &ldquo;Two Social Lives: How Differences Between Online and Offline Interaction Influence Social Outcomes,&rdquo; <em>Current Opinion in Psychology</em>, 31, 16–21.</PubEntry>
         <PubEntry><strong>Lieberman, Alicea</strong>, Ayelet Gneezy, Emily Berry, Stacie Miller, Mark Koch, Bijal A. Balasubramanian, Keith Argenbright, and Samir Gupta (2019), &ldquo;Financial Incentives to Promote Colorectal Cancer Screening: A Longitudinal Randomized Control Trial,&rdquo; <em>Cancer, Epidemiology, Biomarkers &amp; Prevention</em>, 28, 1902–1908.</PubEntry>
-        <PubEntry>Jetelina, Katelyn, Joshua Yudkin, Stacy Miller, Emily Berry, <strong>Alicea Lieberman</strong>, Samir Gupta, and Bijal Balasubramanian (2019), &ldquo;Patient-reported Barriers to Completing a Diagnostic Colonoscopy Following Abnormal Fecal Immunochemical Test Among Uninsured Patients,&rdquo; <em>Journal of General Internal Medicine</em>, 9, 1730–1736.</PubEntry>
+        <PubEntry>Jetelina, Katelyn, Joshua Yudkin, Stacy Miller, Emily Berry, <strong>Alicea Lieberman</strong>, Samir Gupta, and Bijal Balasubramanian (2019), &ldquo;Patient-reported Barriers to Completing a Diagnostic Colonoscopy Following Abnormal Fecal Immunochemical Test Among Uninsured Patients,&rdquo; <em>Journal of General Internal Medicine</em>, 34, 1730–1736.</PubEntry>
         <PubEntry>Jager, Mark, [and 10 others, including <strong>Alicea Lieberman</strong>] (2019), &ldquo;Mailed Outreach is Superior to Usual Care Alone for Colorectal Cancer Screening in the United States: A Systematic Review and Meta-Analysis,&rdquo; <em>Digestive Diseases and Sciences</em>, 64, 2489–2496.</PubEntry>
         <PubEntry>Gupta, Samir, [and 16 others, including <strong>Alicea Lieberman</strong>] (2016), &ldquo;Financial Incentives for Promoting Colorectal Cancer Screening: A Randomized, Comparative Effectiveness Trial,&rdquo; <em>American Journal of Gastroenterology</em>, 111, 1630–1636.</PubEntry>
         <PubEntry>Kim, Annice E., Tim Hopper, Sean Simpson, Jim Nonnemaker, <strong>Alicea Lieberman</strong>, Heather Hansen, and Lauren Porter (2015), &ldquo;Using Twitter Data to Gain Insights Into E-cigarette Marketing and Locations of Use: An Infoveillance Study,&rdquo; <em>Journal of Medical Internet Research</em>, 17, e251.</PubEntry>

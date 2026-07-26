@@ -48,7 +48,7 @@ const projects: ResearchProject[] = [
     imageAlt: "Deadlines and cancer screening research visualization",
     citations: [
       {
-        text: "Lieberman, Alicea, Ayelet Gneezy, et al. (2021), \u201cThe Effect of Deadlines on Cancer Screening Completion: A Randomized Controlled Trial,\u201d Scientific Reports, 11(13876).",
+        text: "Lieberman, Alicea, Ayelet Gneezy, et al. (2021), \u201cThe Effect of Deadlines on Cancer Screening Completion: A Randomized Controlled Trial,\u201d Scientific Reports, 11(1), 13876.",
         url: "https://www.nature.com/articles/s41598-021-93334-1",
       },
     ],
