@@ -113,7 +113,7 @@ export default function CV() {
         <Link
           href="/Lieberman_CV_2026.pdf"
           target="_blank"
-          download
+          rel="noopener noreferrer"
           className="btn-navy inline-flex items-center gap-2 px-5 py-2.5 text-sm font-medium rounded-sm"
         >
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -158,7 +158,7 @@ export default function CV() {
         <PubEntry>Gershon, Rachel, <strong>Alicea Lieberman</strong>, and Sydney Scott (2025), &ldquo;Consumers Believe Legal Products are Less Effective Than Illegal Products,&rdquo; <em>Journal of Marketing Research</em>.</PubEntry>
         <Note>*Finalist, 2025 <em>Journal of Marketing Research</em> Paul E. Green/Vithala R. Rao Award</Note>
         <PubEntry><strong>Lieberman, Alicea</strong>, On Amir, and Ziv Carmon (2023), &ldquo;The Entrenchment Effect: Why People Persist with Less-Preferred Behaviors,&rdquo; <em>Organizational Behavior and Human Decision Processes</em>, 178, 104277.</PubEntry>
-        <PubEntry><strong>Lieberman, Alicea</strong>, On Amir, and Andrea C. Morales (2022), &ldquo;Tangential Immersion: Increasing Persistence in Boring Consumer Behaviors,&rdquo; <em>Journal of Consumer Research</em>, 49(3), 450–472.</PubEntry>
+        <PubEntry><strong>Lieberman, Alicea</strong>, Andrea C. Morales, and On Amir (2022), &ldquo;Tangential Immersion: Increasing Persistence in Boring Consumer Behaviors,&rdquo; <em>Journal of Consumer Research</em>, 49(3), 450–472.</PubEntry>
         <PubEntry><strong>Lieberman, Alicea</strong>, Juliana Schroeder, and On Amir (2022), &ldquo;A Voice Inside My Head: The Psychological and Behavioral Consequences of Auditory Technologies,&rdquo; <em>Organizational Behavior and Human Decision Processes</em>, 170, 104–133.</PubEntry>
         <PubEntry>Mazar, Asaf, Guy Itzchakov, <strong>Alicea Lieberman</strong>, and Wendy Wood (2022), &ldquo;The Unintentional Nonconformist: Habits Promote Resistance to Social Influence,&rdquo; <em>Personality and Social Psychology Bulletin</em>, 49(7), 1058–1070.</PubEntry>
         <PubEntry><strong>Lieberman, Alicea</strong>, Ayelet Gneezy, Emily Berry, Stacie Miller, Mark Koch, Keith Argenbright, and Samir Gupta (2021), &ldquo;The Effect of Deadlines on Cancer Screening Completion: A Randomized Controlled Trial,&rdquo; <em>Scientific Reports</em>, 11(1), 13876.</PubEntry>
