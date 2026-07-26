@@ -39,7 +39,7 @@ const journalPubs: Publication[] = [
   {
     authors: "Lieberman, Alicea, On Amir, and Ziv Carmon",
     year: 2023,
-    title: "The Entrenchment Effect: Why People Persist With Less-Preferred Behaviors",
+    title: "The Entrenchment Effect: Why People Persist with Less-Preferred Behaviors",
     journal: "Organizational Behavior and Human Decision Processes",
     details: "178, 104277",
     url: "https://www.sciencedirect.com/science/article/pii/S0749597823000535?dgcid=author",
@@ -73,7 +73,7 @@ const journalPubs: Publication[] = [
     year: 2021,
     title: "The Effect of Deadlines on Cancer Screening Completion: A Randomized Controlled Trial",
     journal: "Scientific Reports",
-    details: "11(13876)",
+    details: "11(1), 13876",
     url: "https://www.nature.com/articles/s41598-021-93334-1",
   },
   {
@@ -97,7 +97,7 @@ const journalPubs: Publication[] = [
     year: 2019,
     title: "Two Social Lives: How Differences Between Online and Offline Interaction Influence Social Outcomes",
     journal: "Current Opinion in Psychology",
-    details: "30, 16–21",
+    details: "31, 16–21",
     url: "https://www.sciencedirect.com/science/article/abs/pii/S2352250X1930065X",
   },
   {
@@ -111,9 +111,9 @@ const journalPubs: Publication[] = [
   {
     authors: "Jetelina, Katelyn, Joshua Yudkin, Stacy Miller, Emily Berry, Alicea Lieberman, Samir Gupta, and Bijal Balasubramanian",
     year: 2019,
-    title: "Patient-reported barriers to completing a diagnostic colonoscopy following abnormal fecal immunochemical test among uninsured patients",
+    title: "Patient-reported Barriers to Completing a Diagnostic Colonoscopy Following Abnormal Fecal Immunochemical Test Among Uninsured Patients",
     journal: "Journal of General Internal Medicine",
-    details: "9, 1730–1736",
+    details: "34, 1730–1736",
     url: "https://link.springer.com/article/10.1007/s11606-019-05117-0",
   },
   {
