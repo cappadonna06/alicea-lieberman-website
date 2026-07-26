@@ -74,7 +74,7 @@ const journalPubs: Publication[] = [
     title: "The Effect of Deadlines on Cancer Screening Completion: A Randomized Controlled Trial",
     journal: "Scientific Reports",
     details: "11(13876)",
-    url: "https://www.alicealieberman.com/_files/ugd/5ee748_8d762b53fbf949178253262ea7dcc33c.pdf",
+    url: "https://www.nature.com/articles/s41598-021-93334-1",
   },
   {
     authors: "Williams, Elanor F., Alicea Lieberman, and On Amir",
@@ -82,7 +82,7 @@ const journalPubs: Publication[] = [
     title: "Perspective Neglect: Inadequate Perspective Taking Limits Consumer Coordination",
     journal: "Judgment and Decision Making",
     details: "16(4), 898–931",
-    url: "https://www.alicealieberman.com/_files/ugd/5ee748_f94210b5f84f4d289f586169376ce231.pdf",
+    url: "https://www.cambridge.org/core/journals/judgment-and-decision-making/article/perspective-neglect-inadequate-perspective-taking-limits-coordination/7221057A099E0300B0840F4972C2E353",
   },
   {
     authors: "Lieberman, Alicea, Kristen E. Duke, and On Amir",
@@ -90,7 +90,7 @@ const journalPubs: Publication[] = [
     title: "How Incentive Framing Can Harness the Power of Social Norms",
     journal: "Organizational Behavior and Human Decision Processes",
     details: "151, 118–131",
-    url: "https://www.alicealieberman.com/_files/ugd/5ee748_d92055c5e31d41bfb354a138ad467a20.pdf",
+    url: "https://www.sciencedirect.com/science/article/abs/pii/S0749597818300566",
   },
   {
     authors: "Lieberman, Alicea and Juliana Schroeder",
@@ -98,7 +98,7 @@ const journalPubs: Publication[] = [
     title: "Two Social Lives: How Differences Between Online and Offline Interaction Influence Social Outcomes",
     journal: "Current Opinion in Psychology",
     details: "30, 16–21",
-    url: "https://www.alicealieberman.com/_files/ugd/5ee748_804b4505ddae46b8ace42b1a6af03a6d.pdf",
+    url: "https://www.sciencedirect.com/science/article/abs/pii/S2352250X1930065X",
   },
   {
     authors: "Lieberman, Alicea, Ayelet Gneezy, Emily Berry, Stacie Miller, Mark Koch, Bijal A. Balasubramanian, Keith Argenbright, and Samir Gupta",
@@ -106,7 +106,7 @@ const journalPubs: Publication[] = [
     title: "Financial Incentives to Promote Colorectal Cancer Screening: A Longitudinal Randomized Control Trial",
     journal: "Cancer, Epidemiology, Biomarkers & Prevention",
     details: "28, 1902–1908",
-    url: "https://www.alicealieberman.com/_files/ugd/5ee748_aaa8ef9c32ee4912b0cc0b0847b30e32.pdf",
+    url: "https://doi.org/10.1158/1055-9965.EPI-19-0039",
   },
   {
     authors: "Jetelina, Katelyn, Joshua Yudkin, Stacy Miller, Emily Berry, Alicea Lieberman, Samir Gupta, and Bijal Balasubramanian",
@@ -114,7 +114,7 @@ const journalPubs: Publication[] = [
     title: "Patient-reported barriers to completing a diagnostic colonoscopy following abnormal fecal immunochemical test among uninsured patients",
     journal: "Journal of General Internal Medicine",
     details: "9, 1730–1736",
-    url: "https://www.alicealieberman.com/_files/ugd/5ee748_23267f8ad3fa42869a7e12f608b76c28.pdf",
+    url: "https://link.springer.com/article/10.1007/s11606-019-05117-0",
   },
   {
     authors: "Kim, Annice E., Tim Hopper, Sean Simpson, Jim Nonnemaker, Alicea Lieberman, Heather Hansen, and Lauren Porter",
@@ -122,7 +122,7 @@ const journalPubs: Publication[] = [
     title: "Using Twitter Data to Gain Insights Into E-cigarette Marketing and Locations of Use: An Infoveillance Study",
     journal: "Journal of Medical Internet Research",
     details: "17, e251",
-    url: "https://www.alicealieberman.com/_files/ugd/5ee748_fa325834d08345e883494ebd90e94bc1.pdf",
+    url: "https://www.jmir.org/2015/11/e251/",
   },
   {
     authors: "Robles, Brenda., Jon L. Blitstein, Alicea Lieberman, Noel C. Barragan, Lauren N. Gase, and Tony Kuo",
@@ -130,7 +130,7 @@ const journalPubs: Publication[] = [
     title: "The Relationship Between Amount of Soda Consumed and Intention to Reduce Soda Consumption Among Adults Exposed to the Choose Health LA \u2018Sugar Pack\u2019 Health Marketing Campaign",
     journal: "Public Health Nutrition",
     details: "18, 2582–2591",
-    url: "https://www.alicealieberman.com/_files/ugd/5ee748_c02700ff6d734e9d9e2f68f30cae81e1.pdf",
+    url: "https://www.cambridge.org/core/journals/public-health-nutrition/article/relationship-between-amount-of-soda-consumed-and-intention-to-reduce-soda-consumption-among-adults-exposed-to-the-choose-health-la-sugar-pack-health-marketing-campaign/8633C0893AE52A45AD56F76C67A91EF1",
   },
   {
     authors: "Kim, Annice E., Alicea Lieberman, and Daniel Dench",
@@ -138,7 +138,7 @@ const journalPubs: Publication[] = [
     title: "Crowdsourcing Data Collection of the Retail Tobacco Environment: Case Study Comparing Data From Crowdsourced Workers to Trained Data Collectors",
     journal: "Tobacco Control",
     details: "24, e6–e9",
-    url: "https://www.alicealieberman.com/_files/ugd/5ee748_dc877d1a536141c2a394defec667078d.pdf",
+    url: "https://doi.org/10.1136/tobaccocontrol-2013-051298",
   },
 ];
 
